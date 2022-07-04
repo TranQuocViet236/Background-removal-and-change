@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c3f60f5-5354-4ef4-a283-182d579b3fe7" name="HAHALOLO_SERVER">
+        <fileTransfer rootFolder="/storage/test" accessType="SFTP" host="10.10.15.87" port="22" sshConfigId="8b67aa76-bd20-4263-bc45-270bf4ea8b6e" sshConfig="root@10.10.15.87:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
